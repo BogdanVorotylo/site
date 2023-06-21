@@ -1,0 +1,15 @@
+body{
+	background-color:white;
+}
+.q1{
+	margin-top:70px;
+	margin-left:200px;
+	border:3px solid red;
+	border-radius:20px;
+	width:70%;
+	height:80%;
+}
+h2{
+	margin-top:150px;
+	width:70%;
+}

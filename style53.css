@@ -1,0 +1,12 @@
+body{
+	background-color:white;
+}
+.q1{
+	border-radius:20px;
+	border:5px solid orange;
+	width:350px;
+	height:400px;
+}
+div{
+	margin-top:100px;
+}

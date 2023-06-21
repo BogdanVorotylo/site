@@ -1,0 +1,9 @@
+body{
+	background-color:white;
+}
+.q1{
+	border-radius:20px;
+	border:2px solid black;
+	width:350px;
+	height:400px;
+}

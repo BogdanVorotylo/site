@@ -1,0 +1,166 @@
+body{
+	background-color:black;
+}
+header{
+	border:2px solid white;
+}
+li{
+	text-align:center;
+	border:2px solid white;
+	color:white;
+	display:inline-block;
+	list-style-type:none;
+	padding:20px;
+	width:250px;
+	font-size:20px;
+	margin-left:15px;
+	}
+li:hover{
+	color:green;
+}
+img{
+	border:2px solid white;
+	width:30%;
+	height:300px;
+	margin-top:50px;
+	margin-left:10px;
+	margin-right:10px;
+}
+.q1{
+	border:2px solid white;
+
+}
+.a1{
+	width:60%;
+}
+.q2{
+	border:2px solid white;
+	margin-top:50px;
+	padding-top:10px;
+	padding-bottom:10px;
+
+}
+.a2{
+	width:60%;
+}
+.q3{
+	border:2px solid white;
+	margin-top:50px;
+	padding-top:10px;
+	padding-bottom:10px;
+
+}
+.a3{
+	width:60%;
+}
+.q4{
+		border:2px solid white;
+	margin-top:50px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.a4{
+	width:60%;
+}
+.s1{
+	width:26.6%;
+}
+.s2{
+	width:26.6%;
+}
+.s3{
+	width:26.6%;
+}
+.s4{
+	width:26.6%;
+}
+footer{
+	width:100%;
+	height:300px;
+	border:2px solid gray;
+	margin-top:20px;
+	
+}
+.youtube{
+	border:2px solid black;
+	height:60px;
+	width:60px;
+}
+.instagram{
+	border:2px solid black;
+	height:60px;
+	width:60px;
+}
+.facebook{
+	border:2px solid black;
+	height:60px;
+	width:60px;
+}
+.jojo{
+	color:white;
+}
+.m1{
+	width:33%;
+	float:left;
+	height:300px;
+}
+.m2{
+	margin-top:25px;
+	width:33%;
+	float:center;
+	margin-left:33%;
+	margin-top:0px;
+	height:300px;
+}
+.m3{
+	margin-top:25px;
+	width:33.5%;
+	float:right;
+	margin-top:-305px;
+	height:300px;
+}
+p:hover{
+	color:yellow;
+}
+.javano{
+	color:white;
+}
+.neo{
+	color:white;
+	margin-top:80px;
+}
+h1:hover{
+	color:red;
+}
+.log{
+	color:white;
+	margin-left:140px;
+	margin-bottom:1px;
+}
+.hj:hover{
+color:red;}
+.hj{
+	color:white;
+	}
+	
+	
+@media all and (orientation: portrait){
+	h1{
+	
+font-size:40px;	
+	}
+	li{
+		display:block;
+
+		margin-left:37%;
+	}
+	.a1{
+		width:280px;
+	}
+	.a2{
+		width:280px;
+	}
+	.a3{
+		width:280px;
+	}
+}
